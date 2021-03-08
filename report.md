@@ -22,6 +22,7 @@ We had fewer issues with building and running the project. The previous project 
     * Meeting 2: 6h
     * Meeting 3: 3h
     * Meeting 4: 2h
+    * Meeting 5: 1h  
 2. discussions within parts of the group;
     * 3h (split work) during Meeting 3 
 3. reading documentation;
@@ -98,6 +99,10 @@ FindAllCliquesTest.java
 
 LongestIncreasingSubsequenceFast.java  
 LongestIncreasingSubsequenceFastTest.java  
+
+## Pass+ criteria  
+
+During the demo, we have fulfilled P+ criteria 2, 3, 4, 6, and 7. Criterium 5 (regarding the patch being considered for accceptance) is still under way - issues were assigned to us, and we have submitted the pull requests.
 
 ## Overall experience
 
